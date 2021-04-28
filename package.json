@@ -1,0 +1,29 @@
+{
+  "name": "stripeapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rukshan99/Stripe-payment-gateway-api.git"
+  },
+  "author": "Rukshan Jayasekara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rukshan99/Stripe-payment-gateway-api/issues"
+  },
+  "homepage": "https://github.com/rukshan99/Stripe-payment-gateway-api#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "stripe": "^8.145.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
