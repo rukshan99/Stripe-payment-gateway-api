@@ -8,8 +8,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
 [http://localhost:4000](http://localhost:4000)
 
-The page will reload if you make edits.\
+The page will reload if you make edits.
 
